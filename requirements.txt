@@ -1,11 +1,7 @@
 fastapi
 streamlit
-openai
 sqlalchemy
 python-dotenv
-sqlparse
-langchain
-llama-index
-chromadb
 mysql-connector-python
 pandas
+requests
